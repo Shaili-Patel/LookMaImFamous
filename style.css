@@ -10,10 +10,6 @@ html {
   background-color: black;
 }
 
-.accomplishments {
-  background-color: black !important;
-}
-
 h1 {
   font-family: "ivyora-display", sans-serif;
   font-weight: 400;
@@ -166,13 +162,12 @@ font-style: normal;
   display: flex;
   flex-direction: column;
   height: 100%; 
-  padding-bottom: 78px;
 }
 
 .card-body {
   flex-grow: 1; 
   display: flex;
-  flex-direction: column; / 
+  flex-direction: column;
 }
 
 .card-text {
@@ -187,4 +182,10 @@ font-style: normal;
 
 .btn {
   margin-top: auto; 
+}
+
+img{
+  height: 230px;
+  width: 365px;
+  padding-bottom: 0px;
 }
