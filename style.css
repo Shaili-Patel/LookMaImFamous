@@ -4,7 +4,7 @@ html {
   }
   
 .home{
-  background-image: url(/imgs/Background.png); 
+  background-image: url(imgs/Background.png); 
   background-repeat: no-repeat; 
   margin: 0; 
   background-color: black;
